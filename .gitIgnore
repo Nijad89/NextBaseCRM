@@ -1,3 +1,6 @@
 .idea
 *.xml
 NextBaseCRM.iml
+.src
+pom.xml
+.java
