@@ -24,7 +24,7 @@ public class Nmarketing33 {
 
  */
         driver.get(url);
-//only login no password
+//only login no password:
         Thread.sleep(2000);
         WebElement login = driver.findElement(By.cssSelector("input[class='login-inp']"));
         login.sendKeys("marketing33@cybertekschool.com");

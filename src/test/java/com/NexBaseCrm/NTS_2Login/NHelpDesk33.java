@@ -20,7 +20,7 @@ public class NHelpDesk33 {
                 String password = "UserUser";//correct password
                 String expectedTitle = "Authorization";
 
-//wrong userName -->correct password
+//wrong userName -->correct password:
                 driver.get(url);
 
                 Thread.sleep(2000);

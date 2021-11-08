@@ -22,7 +22,7 @@ public class NHr33 {
 
             Thread.sleep(2000);
 
-           //no login -->input only password
+           //no login -->input only password:
             Thread.sleep(2000);
             WebElement passwordBox = driver.findElement(By.cssSelector("input[type='password']"));
             passwordBox.sendKeys(password + Keys.ENTER);

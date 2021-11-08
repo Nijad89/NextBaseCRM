@@ -12,7 +12,7 @@ public class helpDesk33 {
 /*
 <input class="login-inp" type="text" name="USER_LOGIN" placeholder="Login" value="" maxlength="255">
 
-<input class="login-inp" type="password" name="USER_PASSWORD" placeholder="Password" maxlength="255">
+<input class="login-inp" type="password" name="USER_PASSWORD" placeholder="Password" maxlength="255">:
 
 
 
