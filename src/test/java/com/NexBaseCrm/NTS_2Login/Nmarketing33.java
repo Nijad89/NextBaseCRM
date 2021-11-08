@@ -42,7 +42,7 @@ public class Nmarketing33 {
         } else {
             System.out.println("marketing33Login :Title verification failed negative test case failed");
         }
-
+driver.quit();
 
     }
 
